@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevNhatHo
-- 👀 I’m interested in expanding my skills on software development.
-- 🌱 I’m currently learning C++, javascript and backend.
+- 👀 I’m interested on expanding my skills on web/software development.
+- 🌱 I’m constantly learning C++, javascript, react, python, node.js, express.js. mongoDB and new technolgies. 
 - 💞️ I’m looking to collaborate on webpages, apps, and software.
 - 📫 How to reach me at my email : sdnhatb@gmail.com
 <!---
